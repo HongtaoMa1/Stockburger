@@ -1,6 +1,6 @@
 # Stockburger（股堡）
 
-散户量化的「算法生成器」：人用文字提需求，闭源大模型把需求翻译成研究方案、指挥训练，本地显卡批量训练、筛选小模型，最后产出一个专注某个领域的小型量化模型。目标是绕开机构对散户的三座大山——数据垄断、高阶算法、网络延迟。
+散户量化的「算法生成器」：人用文字提需求，闭源大模型把需求翻译成研究方案、指挥训练，本地显卡批量训练、筛选小模型，最后产出一个专注某个领域的小型量化模型。目标是绕开机构对散户的三座大山——数据垄断、算法霸权、带宽差距。
 
 An "algorithm generator" for retail quant: a frontier LLM turns plain-language requirements into a research plan and directs training; a local GPU trains and screens small models; the output is a small, domain-focused quant model. The aim is to get around the three structural edges institutions hold over retail investors: data, advanced algorithms, and latency.
 
