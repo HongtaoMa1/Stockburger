@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# 数据与缓存：本仓库不收任何数据文件 / data and caches: this repository holds no data files
+data/
+cache/
+*.parquet
+*.jsonl
+*.csv
+*.h5
+*.pkl
+
+# 系统文件 / OS files
+.DS_Store
+Thumbs.db

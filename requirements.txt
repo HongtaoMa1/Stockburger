@@ -1,0 +1,11 @@
+# Stockburger 协议工具包 / protocol toolkit — Python >= 3.10
+# 下面是宽松的最低版本 / loose lower bounds
+numpy>=1.23
+pandas>=2.1
+scipy>=1.10
+statsmodels>=0.13   # 闸门的 HAC t（Newey–West）/ HAC t-statistic in the gate
+pytest>=7           # 跑单测 / unit tests
+
+# 可选 / optional：只有登记改用块自助 t（block_bootstrap_t）时才用到；没装时相关两条单测自动跳过
+# Only needed if the block-bootstrap t is registered; the two related tests are skipped without it.
+# arch>=5.0
